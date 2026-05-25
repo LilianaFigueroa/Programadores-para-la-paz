@@ -1,2 +1,2 @@
-# Programadores-para-la-paz-semana1
+# Programadores-para-la-paz
 Proyecto semana 1
