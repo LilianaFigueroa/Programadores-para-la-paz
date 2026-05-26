@@ -1,2 +1,5 @@
-Para un desarrollador es fundamental saber utilizar la terminal, ya que esta permite acceder a funciones avanzadas que ayudan a modificar, ejecutar o automatizar tareas de manera más rápida y precisa. Además, funciona como un medio de interacción o conversación textual que lleva a tener mayor control en el sistema operativo, 
+Para un desarrollador es fundamental saber utilizar la terminal, ya que esta herramienta permite acceder a funciones avanzadas que ayudan a modificar, ejecutar o automatizar tareas de manera más rápida y precisa. 
+De igual manera, para que el conocimiento generado por los desarrolladores pueda divulgarse y no permanezca limitado a un solo sitio o persona, surgen plataformas digitales colaborativas como GitHub, las cuales permiten compartir proyectos, trabajar de manera conjunta y almacenar las diferentes versiones de un desarrollo.
+Esto representa una oportunidad para organizar, recuperar o redirigir procesos cuando sea necesario dentro de la construcción de un proyecto.
+Además, funciona como un medio de interacción o conversación textual que lleva a tener mayor control en el sistema operativo, 
 permitiendo ejecutar comandos concisos paso a paso para agilizar procesos y reflejar los cambios posteriormente en la interfaz gráfica con la que se interactúa en la cotidianidad.
