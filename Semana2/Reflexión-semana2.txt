@@ -1,0 +1,2 @@
+Para un desarrollador es fundamental saber utilizar la terminal, ya que esta permite acceder a funciones avanzadas que ayudan a modificar, ejecutar o automatizar tareas de manera más rápida y precisa. Además, funciona como un medio de interacción o conversación textual que lleva a tener mayor control en el sistema operativo, 
+permitiendo ejecutar comandos concisos paso a paso para agilizar procesos y reflejar los cambios posteriormente en la interfaz gráfica con la que se interactúa en la cotidianidad.
