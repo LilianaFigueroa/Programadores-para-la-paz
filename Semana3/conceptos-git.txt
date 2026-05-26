@@ -1,0 +1,3 @@
+Repositorio: es un espacio donde se almacena el historial y archivos del proyecto, actua como una carpeta en la que se conserva y organiza cada modificación que se realice. Los dos tipos de repositorios son: local y remoto.
+Commit: es una fotografía rápida de cada cambio que se realiza en el proyecto. Ayuda a almacenar en el repositorio el estado de los archivos y los códigos, además guarda los cambios hechos y el nombre de la persona que los realizó.
+Push: es un comando que permite sincronizar los avances del proyecto en el servidor. Se encarga de enviar cada fotografía del Commit al repositorio remoto para que otros puedan ver los cambios. 

@@ -1,0 +1,3 @@
+Es importante que los proyectos de software mantengan un registro de cambios utilizando herramientas como Git, ya que esto permite guardar y conservar las diferentes versiones de un proyecto. 
+Al funcionar como un sistema de control de versiones, registra información relevante sobre los cambios realizados, especificando quién los hizo, qué modificaciones se hicieron y cuándo fueron ejecutadas. 
+Además, facilita el trabajo colaborativo y distribuido entre varios desarrolladores dentro de un mismo proyecto, brindando así mayor organización, seguridad y control sobre la información almacenada y los procesos que se desarrollan en él.
